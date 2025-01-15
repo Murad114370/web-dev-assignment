@@ -27,3 +27,81 @@ nav{
     font-size: 18px;
     padding: 15px 30px;
 }
+.btn-primary1{
+    color: white;
+    border: 2px solid rgba(0, 106, 80, 1);
+    border-radius: 8px;
+    background-color: rgba(0, 106, 80, 1);
+    font-weight: 600px;
+    font-size: 18px;
+    padding: 17px 34px;
+}
+/* banner style  */
+.banner{
+    display: flex;
+    align-items: center;
+    max-width: 1500px;
+    margin: 0 auto;
+    text-align:center;
+    margin-top: 20px;
+    justify-content: space-between;
+    border-radius: 24px;
+    gap: 50px;
+    background-color: rgba(198, 228, 214, 1);
+   
+}
+.banner-content{
+    text-align: left;
+    padding: 80px 30px;
+}
+.banner-title{
+    font-size: 24px;
+    font-weight: 600px;
+    color: rgba(14, 14, 14, 0.5);
+    margin-left: 10px;
+}
+.banner-description{
+    font-size: 56px;
+    font-weight: bold;
+    
+    color: rgba(14, 14, 14, 1);
+}
+/* nav style */
+nav{
+    margin-left: 260px;
+}
+nav ul li {
+    margin-right: 100px;
+}
+/* structure-container style */
+.structure-container{
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+}
+.main{
+    max-width: 1500px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 110px;
+}
+.structure-head{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: left;
+}
+.structure-title{
+    font-size: 20px;
+    font-weight: bold;
+}
+.structure-description{
+    font-size: 16px;
+    font-weight: 400px;
+    color: rgba(14, 14, 14, 0.7);
+}
+.structure{
+    box-shadow: 0px 6px 50px rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    padding: 10px;
+    margin : 10px;
+}
