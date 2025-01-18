@@ -355,3 +355,66 @@ main input[type="text"]{
     margin-bottom: 110px;
     gap: 500px;
 }
+.section7-heading{
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 24px;
+}
+.section7-heading-description{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.7);
+    width: 622px;
+    height: 48px;
+    align-items: center;
+    margin: 0 auto;
+    padding-bottom: 24px;
+}
+main input[type="email"]{
+    width: 600px;
+    height: 56px;
+    color: rgba(14, 14, 14, 0.3);
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 40px;
+    border-radius: 5px 0px 5px 5px;
+    border: none;
+
+    
+    
+}
+#subscribe-btn{
+    width: 160px;
+    height: 58px;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    background-color: rgba(0, 106, 80, 1);
+    border-radius: 5px 5px 5px 0px;
+    border: none;
+
+    
+}
+.email-btn{
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.35);
+    max-width: 50%;
+    
+    
+}
+.section7-end{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.7);
+    padding-top: 10px;
+}
+.section7-head{
+    background-color: rgba(198, 228, 214, 1);
+    border-radius: 24px;
+    width: 1240px;
+    height: 395px;
+    align-items: center;
+    margin: 0 auto;
+}
