@@ -418,3 +418,23 @@ main input[type="email"]{
     align-items: center;
     margin: 0 auto;
 }
+.footer-end{
+    text-align: center;
+    margin-bottom: 50px;
+}
+hr{
+   
+    align-items: center;
+    margin: 0 auto;
+    max-width: 1122px;
+    margin-bottom: 32px;
+    border:3px solid rgba(14, 14, 14, 0.08)
+}
+.footer-end-heading{
+    font-size: 32px;
+    font-weight: bold;
+    color: black;
+}
+.footer1-img{
+    margin-right: 23px;
+}
